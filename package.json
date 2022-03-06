@@ -1,7 +1,6 @@
 {
   "name": "compound-borrow-guide",
   "version": "2.0.0",
-  "description": "Code examples for borrowing Ethereum assets from the Compound Protocol. https://compound.finance/",
   "main": "index.js",
   "scripts": {
     "start": "node ./scripts/run-localhost-fork.js",
