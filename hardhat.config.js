@@ -1,5 +1,5 @@
-require('@nomiclabs/hardhat-web3');
-require('@nomiclabs/hardhat-ethers');
+require('hardhat-web3');
+require('hardhat-ethers');
 const ethers = require('ethers');
 
 const providerUrl = process.env.MAINNET_PROVIDER_URL;
